@@ -2,7 +2,7 @@ const express = require('express');
 const cookieParser = require('cookie-parser');
 
 const app = express();
-const PORT = 4000;
+const PORT = process.env.PORT || 4000;
 
 const users = require('./users');
 const sessions = require('./sessions');
@@ -14,6 +14,7 @@ const theMarket = market.initMarket();
 app.use(cookieParser());
 app.use(express.static('./build'));
 app.use(express.json());
+
 
 //auth: check auth, login, logout
 app.get('/api/session', (req, res) => {
