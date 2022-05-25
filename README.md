@@ -1,5 +1,6 @@
 
 # Life Shop 
+![confirm interface](https://github.com/Joe-Ngan/lifeshop/blob/main/snapshots/confirm%20interface.png)
 
 ## Concept
 Life shop is an online e-Commerce web app...for life experience!
