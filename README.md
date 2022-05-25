@@ -1,7 +1,7 @@
 
 # Life Shop 
 https://my-lifeshop.herokuapp.com/
-<img src="https://github.com/Joe-Ngan/lifeshop/blob/main/snapshots/login%20interface.png" width="200" />
+<img src="https://github.com/Joe-Ngan/lifeshop/blob/main/snapshots/login%20interface.png" width="1200" />
 ## Concept
 Life shop is an online e-Commerce web app...for life experience!
 ![e-commerce interface](https://github.com/Joe-Ngan/lifeshop/blob/main/snapshots/e-commerce.png =100x)
