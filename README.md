@@ -1,15 +1,16 @@
 
 # Life Shop 
-https://my-lifeshop.herokuapp.com/
+
 <img src="https://github.com/Joe-Ngan/lifeshop/blob/main/snapshots/login%20interface.png" width="1200" />
+https://my-lifeshop.herokuapp.com/
 ## Concept
 Life shop is an online e-Commerce web app...for life experience!
-![e-commerce interface](https://github.com/Joe-Ngan/lifeshop/blob/main/snapshots/e-commerce.png =100x)
+<img src="https://github.com/Joe-Ngan/lifeshop/blob/main/snapshots/e-commerce.png" width="1200" />
 Imagine you can trade your time, money to gain more happiness or value. 
 Life shop is a place where you can idealize your dream life. 
 
 You can even customerize your unique life experience for other users! 
-![create products for other users](https://github.com/Joe-Ngan/lifeshop/blob/main/snapshots/create%20purchaseable%20item%20modal.png =100x)
+<img src="https://github.com/Joe-Ngan/lifeshop/blob/main/snapshots/create%20purchaseable%20item%20modal.png" width="600" />
 
 ## Features
 
